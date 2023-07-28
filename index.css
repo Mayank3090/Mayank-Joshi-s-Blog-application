@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+
+}
+
+body {
+  font-family: "roboto", sans-serif;
+  background-image: url(https://tse4.mm.bing.net/th?id=OIP.OEcOYUqHeVHlTRfw2vYfuwHaEo&pid=Api&P=0&h=180);
+  background-size: cover;
+  background-position: center;
+}
